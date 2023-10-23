@@ -2,9 +2,6 @@ import React from "react";
 import "./current-weather.css";
 
 const CurrentWeather = ({data}) => {
-  
-
-  console.log("deneme 1234");
 
   return (
     <div className="weather">
